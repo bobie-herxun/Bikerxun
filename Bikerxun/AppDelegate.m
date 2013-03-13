@@ -36,12 +36,13 @@
      */
     
     NSArray	*beintooFeatures = [NSArray arrayWithObjects:   BFEATURE_PROFILE,
-                                BFEATURE_MARKETPLACE,
+//                                BFEATURE_MARKETPLACE,
                                 BFEATURE_LEADERBOARD,
-                                BFEATURE_WALLET,
+//                                BFEATURE_WALLET,
                                 BFEATURE_CHALLENGES,
                                 BFEATURE_ACHIEVEMENTS,
-                                BFEATURE_TIPSANDFORUM, nil];
+//                                BFEATURE_TIPSANDFORUM,
+                                nil];
 	
 	NSDictionary *beintooSettings = [[NSDictionary alloc] initWithObjectsAndKeys:
 									 beintooFeatures,   BeintooActiveFeatures,

@@ -44,7 +44,9 @@
 
 - (IBAction)addMiles:(id)sender {
     [Beintoo setPlayerDelegate:self];
+    [Beintoo setAchievementsDelegate:self];
     [Beintoo submitScore:10 forContest:@"default"];
+    [Beintoo incrementAchievement:@"a9d0686c3aeea261efdfaa1f6ee71959" withScore:15];    //7dea5459a596171fe0d2307aaf90cf7e
     [Beintoo getScore];
 }
 
