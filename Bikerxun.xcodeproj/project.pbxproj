@@ -271,6 +271,12 @@
 		80A382D616F07D6700A5A84D /* BeintooWalletVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 80A381D916F07D6700A5A84D /* BeintooWalletVC.xib */; };
 		80A382D716F07D6700A5A84D /* BeintooWebViewVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 80A381DA16F07D6700A5A84D /* BeintooWebViewVC.xib */; };
 		80A382D816F07D6700A5A84D /* BeintooLocalizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 80A381DC16F07D6700A5A84D /* BeintooLocalizable.strings */; };
+		80A382DB16F07EA100A5A84D /* BeintooDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 80A382DA16F07EA100A5A84D /* BeintooDelegate.m */; };
+		80A382DD16F07F6F00A5A84D /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80A382DC16F07F6F00A5A84D /* AdSupport.framework */; };
+		80A382DF16F07F7B00A5A84D /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80A382DE16F07F7B00A5A84D /* CoreTelephony.framework */; };
+		80A382E116F07FB800A5A84D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80A382E016F07FB800A5A84D /* QuartzCore.framework */; };
+		80A382E316F07FC800A5A84D /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80A382E216F07FC800A5A84D /* CoreLocation.framework */; };
+		80A382E516F07FE100A5A84D /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80A382E416F07FE000A5A84D /* SystemConfiguration.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -641,6 +647,13 @@
 		80A381D916F07D6700A5A84D /* BeintooWalletVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BeintooWalletVC.xib; sourceTree = "<group>"; };
 		80A381DA16F07D6700A5A84D /* BeintooWebViewVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BeintooWebViewVC.xib; sourceTree = "<group>"; };
 		80A381DD16F07D6700A5A84D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = BeintooLocalizable.strings; sourceTree = "<group>"; };
+		80A382D916F07EA100A5A84D /* BeintooDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BeintooDelegate.h; sourceTree = "<group>"; };
+		80A382DA16F07EA100A5A84D /* BeintooDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BeintooDelegate.m; sourceTree = "<group>"; };
+		80A382DC16F07F6F00A5A84D /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		80A382DE16F07F7B00A5A84D /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		80A382E016F07FB800A5A84D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		80A382E216F07FC800A5A84D /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		80A382E416F07FE000A5A84D /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -648,6 +661,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80A382E516F07FE100A5A84D /* SystemConfiguration.framework in Frameworks */,
+				80A382E316F07FC800A5A84D /* CoreLocation.framework in Frameworks */,
+				80A382E116F07FB800A5A84D /* QuartzCore.framework in Frameworks */,
+				80A382DF16F07F7B00A5A84D /* CoreTelephony.framework in Frameworks */,
+				80A382DD16F07F6F00A5A84D /* AdSupport.framework in Frameworks */,
 				80A3803C16F068D900A5A84D /* UIKit.framework in Frameworks */,
 				80A3803E16F068D900A5A84D /* Foundation.framework in Frameworks */,
 				80A3804016F068D900A5A84D /* CoreGraphics.framework in Frameworks */,
@@ -679,6 +697,11 @@
 		80A3803A16F068D900A5A84D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				80A382E416F07FE000A5A84D /* SystemConfiguration.framework */,
+				80A382E216F07FC800A5A84D /* CoreLocation.framework */,
+				80A382E016F07FB800A5A84D /* QuartzCore.framework */,
+				80A382DE16F07F7B00A5A84D /* CoreTelephony.framework */,
+				80A382DC16F07F6F00A5A84D /* AdSupport.framework */,
 				80A3803B16F068D900A5A84D /* UIKit.framework */,
 				80A3803D16F068D900A5A84D /* Foundation.framework */,
 				80A3803F16F068D900A5A84D /* CoreGraphics.framework */,
@@ -689,6 +712,8 @@
 		80A3804116F068D900A5A84D /* Bikerxun */ = {
 			isa = PBXGroup;
 			children = (
+				80A382D916F07EA100A5A84D /* BeintooDelegate.h */,
+				80A382DA16F07EA100A5A84D /* BeintooDelegate.m */,
 				80A3804A16F068D900A5A84D /* AppDelegate.h */,
 				80A3804B16F068D900A5A84D /* AppDelegate.m */,
 				80A3805316F068D900A5A84D /* MainStoryboard.storyboard */,
@@ -1596,6 +1621,7 @@
 				80A3823F16F07D6700A5A84D /* SBJsonBase.m in Sources */,
 				80A3824016F07D6700A5A84D /* SBJsonParser.m in Sources */,
 				80A3824116F07D6700A5A84D /* SBJsonWriter.m in Sources */,
+				80A382DB16F07EA100A5A84D /* BeintooDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
