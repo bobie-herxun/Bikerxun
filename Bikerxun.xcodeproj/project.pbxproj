@@ -1,0 +1,303 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		80A3803C16F068D900A5A84D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80A3803B16F068D900A5A84D /* UIKit.framework */; };
+		80A3803E16F068D900A5A84D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80A3803D16F068D900A5A84D /* Foundation.framework */; };
+		80A3804016F068D900A5A84D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80A3803F16F068D900A5A84D /* CoreGraphics.framework */; };
+		80A3804616F068D900A5A84D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 80A3804416F068D900A5A84D /* InfoPlist.strings */; };
+		80A3804816F068D900A5A84D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 80A3804716F068D900A5A84D /* main.m */; };
+		80A3804C16F068D900A5A84D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 80A3804B16F068D900A5A84D /* AppDelegate.m */; };
+		80A3804E16F068D900A5A84D /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 80A3804D16F068D900A5A84D /* Default.png */; };
+		80A3805016F068D900A5A84D /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 80A3804F16F068D900A5A84D /* Default@2x.png */; };
+		80A3805216F068D900A5A84D /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 80A3805116F068D900A5A84D /* Default-568h@2x.png */; };
+		80A3805516F068D900A5A84D /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80A3805316F068D900A5A84D /* MainStoryboard.storyboard */; };
+		80A3805816F068D900A5A84D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 80A3805716F068D900A5A84D /* ViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		80A3803816F068D900A5A84D /* Bikerxun.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bikerxun.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		80A3803B16F068D900A5A84D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		80A3803D16F068D900A5A84D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		80A3803F16F068D900A5A84D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		80A3804316F068D900A5A84D /* Bikerxun-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Bikerxun-Info.plist"; sourceTree = "<group>"; };
+		80A3804516F068D900A5A84D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		80A3804716F068D900A5A84D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		80A3804916F068D900A5A84D /* Bikerxun-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Bikerxun-Prefix.pch"; sourceTree = "<group>"; };
+		80A3804A16F068D900A5A84D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		80A3804B16F068D900A5A84D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		80A3804D16F068D900A5A84D /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		80A3804F16F068D900A5A84D /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		80A3805116F068D900A5A84D /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		80A3805416F068D900A5A84D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		80A3805616F068D900A5A84D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		80A3805716F068D900A5A84D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		80A3803516F068D900A5A84D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				80A3803C16F068D900A5A84D /* UIKit.framework in Frameworks */,
+				80A3803E16F068D900A5A84D /* Foundation.framework in Frameworks */,
+				80A3804016F068D900A5A84D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		80A3802F16F068D900A5A84D = {
+			isa = PBXGroup;
+			children = (
+				80A3804116F068D900A5A84D /* Bikerxun */,
+				80A3803A16F068D900A5A84D /* Frameworks */,
+				80A3803916F068D900A5A84D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		80A3803916F068D900A5A84D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				80A3803816F068D900A5A84D /* Bikerxun.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		80A3803A16F068D900A5A84D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				80A3803B16F068D900A5A84D /* UIKit.framework */,
+				80A3803D16F068D900A5A84D /* Foundation.framework */,
+				80A3803F16F068D900A5A84D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		80A3804116F068D900A5A84D /* Bikerxun */ = {
+			isa = PBXGroup;
+			children = (
+				80A3804A16F068D900A5A84D /* AppDelegate.h */,
+				80A3804B16F068D900A5A84D /* AppDelegate.m */,
+				80A3805316F068D900A5A84D /* MainStoryboard.storyboard */,
+				80A3805616F068D900A5A84D /* ViewController.h */,
+				80A3805716F068D900A5A84D /* ViewController.m */,
+				80A3804216F068D900A5A84D /* Supporting Files */,
+			);
+			path = Bikerxun;
+			sourceTree = "<group>";
+		};
+		80A3804216F068D900A5A84D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				80A3804316F068D900A5A84D /* Bikerxun-Info.plist */,
+				80A3804416F068D900A5A84D /* InfoPlist.strings */,
+				80A3804716F068D900A5A84D /* main.m */,
+				80A3804916F068D900A5A84D /* Bikerxun-Prefix.pch */,
+				80A3804D16F068D900A5A84D /* Default.png */,
+				80A3804F16F068D900A5A84D /* Default@2x.png */,
+				80A3805116F068D900A5A84D /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		80A3803716F068D900A5A84D /* Bikerxun */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 80A3805B16F068D900A5A84D /* Build configuration list for PBXNativeTarget "Bikerxun" */;
+			buildPhases = (
+				80A3803416F068D900A5A84D /* Sources */,
+				80A3803516F068D900A5A84D /* Frameworks */,
+				80A3803616F068D900A5A84D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Bikerxun;
+			productName = Bikerxun;
+			productReference = 80A3803816F068D900A5A84D /* Bikerxun.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		80A3803016F068D900A5A84D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = Bobie;
+			};
+			buildConfigurationList = 80A3803316F068D900A5A84D /* Build configuration list for PBXProject "Bikerxun" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 80A3802F16F068D900A5A84D;
+			productRefGroup = 80A3803916F068D900A5A84D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				80A3803716F068D900A5A84D /* Bikerxun */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		80A3803616F068D900A5A84D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				80A3804616F068D900A5A84D /* InfoPlist.strings in Resources */,
+				80A3804E16F068D900A5A84D /* Default.png in Resources */,
+				80A3805016F068D900A5A84D /* Default@2x.png in Resources */,
+				80A3805216F068D900A5A84D /* Default-568h@2x.png in Resources */,
+				80A3805516F068D900A5A84D /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		80A3803416F068D900A5A84D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				80A3804816F068D900A5A84D /* main.m in Sources */,
+				80A3804C16F068D900A5A84D /* AppDelegate.m in Sources */,
+				80A3805816F068D900A5A84D /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		80A3804416F068D900A5A84D /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				80A3804516F068D900A5A84D /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		80A3805316F068D900A5A84D /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				80A3805416F068D900A5A84D /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		80A3805916F068D900A5A84D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		80A3805A16F068D900A5A84D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		80A3805C16F068D900A5A84D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Bikerxun/Bikerxun-Prefix.pch";
+				INFOPLIST_FILE = "Bikerxun/Bikerxun-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		80A3805D16F068D900A5A84D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Bikerxun/Bikerxun-Prefix.pch";
+				INFOPLIST_FILE = "Bikerxun/Bikerxun-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		80A3803316F068D900A5A84D /* Build configuration list for PBXProject "Bikerxun" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				80A3805916F068D900A5A84D /* Debug */,
+				80A3805A16F068D900A5A84D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		80A3805B16F068D900A5A84D /* Build configuration list for PBXNativeTarget "Bikerxun" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				80A3805C16F068D900A5A84D /* Debug */,
+				80A3805D16F068D900A5A84D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 80A3803016F068D900A5A84D /* Project object */;
+}
