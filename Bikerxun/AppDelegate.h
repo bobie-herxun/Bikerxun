@@ -7,8 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BeintooDelegate.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
+{
+    UIWindow                *window;
+    BeintooDelegate         *sampleDelegate;
+}
 
 @property (strong, nonatomic) UIWindow *window;
 
