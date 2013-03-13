@@ -1,0 +1,412 @@
+// Global
+"score"                             = "积分";
+"points"                            = "分数";
+"back"                              = "返回";
+"novice"                            = "新手";
+"learner"                           = "初学者";
+"passionate"                        = "热情";
+"winner"                            = "赢家";
+"master"                            = "大师";
+"endDate"                           = "结束日期：";
+"date"                              = "日期：";
+"from:"                             = "发信人：";
+"to:"                               = "至：";
+"yes"                               = "是";
+"login"                             = "登录";
+"loginError"                        = "登录错误";
+"loginErrorMsg"                     = "用户名或密码错误请重试。";
+"loginSuccess"                      = "欢迎回来！";
+"loginSuccessMsg"                   = "已经登录！";
+"cancel"                            = "取消";
+"show"                              = "显示";
+"details"                           = "详情";
+"connectionError"                   = "连接错误请检查网络连接。";
+"done"                              = "完成";
+"best"                              = "最佳： ";
+"last"                              = "姓： ";
+"nickname"                          = "昵称：";
+
+// Give Bedollars
+"giveBedollarMsg"      = "You just earned %i Bedollar! Use your Bedollars to redeem great offers on Beintoo";
+"giveBedollarsMsg"      = "You just earned %i Bedollars! Use your Bedollars to redeem great offers on Beintoo";
+"giveBedollarFloatMsg"      = "You just earned %.1f Bedollar! Use your Bedollars to redeem great offers on Beintoo";
+"giveBedollarsFloatMsg"      = "You just earned %.1f Bedollars! Use your Bedollars to redeem great offers on Beintoo";
+
+// Post Signup Tutorial
+"tutorialFirstSentenceBold" = "PLAY";
+"tutorialFirstSentence" = "/ Engage with favourite Apps in the Beintoo network";
+"tutorialSecondSentenceBold" = "EARN";
+"tutorialSecondSentence" = "/ Collect Bedollars from your activities";
+"tutorialThirdSentenceBold" = "REDEEM";
+"tutorialThirdSentence" = "/ Get real world offers in the Beintoo store";
+
+"tutorialProceedButton" = "Start now!";
+
+"signupMainSentence1" = "Join";
+"signupMainSentence2" = " the community to "; 
+"signupMainSentence3" = "earn"; 
+"signupMainSentence4" = "bedollars and ";
+"signupMainSentence5" = "redeem"; 
+"signupMainSentence6" = "high value real world offers";
+
+"signupOrLabel"       = "o";
+
+"new_login_title" = "Continue earning Bedollars and redeem offers from here!";
+
+"signupTextFieldPlaceholder" = "Signup with your email";
+
+"loginEmailPlaceholder" = "Email";
+"loginPasswordPlaceholder" = "Password";
+
+"successfullyUnfrined" = "%@ successfully removed from friends";
+"friendshipRequestSent" = "Friend request successfully sent to %@";
+"noFriendsAlliance" = "Make some new friends to invite them into your new alliance!";
+"noAlliancesInContest" = "No active alliances in this contest yet!";
+"noNotifications"               = "You don't have any notifications at the moment!";
+"noChallengesCompleted" = "You haven't completed any challenges yet!";
+
+"connectWithFacebook" = "Connect with Facebook";
+
+"noAlliances"           = "None";
+
+"no" = "No";
+
+"settingsLabel"         = "设置";
+
+"forgotPasswordButton" = "Forgot your password?";
+"forgotPasswordTitle" = "To reset your password, please insert your email";
+"forgotPasswordSendEmail" = "Send a new password";
+"forgotPasswordAlertTitle" = "Successfully sent!";
+"forgotPasswordAlertSuccess" = "A new password has been sent to your account";
+"forgotPasswordAlertTitleError" = "Error";
+"forgotPasswordAlertError" = "The email entered doesn't belong to any account";
+
+// Home
+"profileDesc"                       = "您的状态、消息和好友";
+"leaderboardDesc"                   = "查看总分";
+"walletDesc"                        = "管理虚拟物品";
+"challengesDesc"                    = "管理挑战模式";
+"newMessages"                       = "新消息";
+"achievementsDesc"                  = "查看战绩";
+"tipsandforumDesc"                  = "参加讨论和反馈";
+
+// DashboardPlayer -------- TO TRANSLATE!!
+"dashplayerhometext"            = "Have more fun, connect with players and make your winnings real! Welcome to the Beintoo network!";
+"dashplayerleaderboardtext"     = "Be in the Leaderboard and compare your score with your friends!";
+"dashplayerchallengestext"      = "Challenge friends, win and earn Bedollars!";
+"dashplayerprofiletext"         = "Create your profile, get new friends and manage your rewards!";
+"dashplayerforumtips"           = "Discuss with players and give your feedbacks.";
+"dashplayersignupnow"           = "Sign up now";
+
+"tryBeintooMessage"                 = "注册到 Beintoo，注册到 Beintoo，您将会在当地得到惊人的折扣作为对游戏战绩的奖励。";
+"playHardMessage"                   = "尽情游戏：赢取独家真实交易！";
+
+//Marketplace 
+"bedollars"                     = "Bedollars";
+"MPmarketplaceTitle"            = "Redeem";
+"MPtextDescriptionLong"         = "Redeem your coupons or send them as gifts";
+"MPdescription"                 = "Use your Bedollars to redeem offers";
+"MPcredits"                     = "Your credits:";
+"MPmainSegmentedIndexTitle0"    = "Featured";
+"MPmainSegmentedIndexTitle1"    = "National";
+"MPmainSegmentedIndexTitle2"    = "Around me";
+"MPchildSegmentedIndexTitle0"   = "Top";
+"MPchildSegmentedIndexTitle1"   = "Categories";
+"MPsendAsAGift"                 = "Send As A Gift";
+"MPbuy"                         = "Buy";
+"MPnoMoneyToGetCoupon"          = "You do not have enough credits to get this offer, you miss %.2f %@, go and play to earn them right now";
+"MPnoAvailableCoupons"          = "There are no coupons in this category";
+"MPdistance"                    = "Distance";
+"MPbuyItNow"                    = "Buy It Now";
+"MPyouAreGoingToBuy"            = "You are buying:";
+
+"MPsendRate"                    = "Send Rate";
+"MPwarning"                     = "Attention!";
+"MPnoStarsSelected"             = "Select at least one star to send your rate.";
+"ok"                            = "Ok";
+"error"                         = "Error!";
+"MPemptyCommentError"           = "Edit a text to send your comment.";
+"MPratingSent"                  = "Rating sent!";
+"MPsend"                        = "Send";              
+"MPsentComment"                 = "Comment sent! Wait few minutes to get it visible.";
+"MPnoAvailableComments"         = "No comments for this coupon";
+"MPaddress"                     = "Address";
+"releaseToRefresh"              = "Release to refresh...";
+"lastUpdate"                    = "Last Update";
+"neverUpdated"                  = "Never Updated";
+"pullDownToRefresh"             = "Pull down to refresh...";
+"loading"                       = "Loading...";
+"upToDate"                      = "Up-to-date.";
+"MPwriteNewComment"             = "Write a comment";
+"MPorderByPrice"                = "Order by price";
+"submitScoreMarketplaceMsg"     = "You've got now %.0f %@, don't lose them! Use them in the Marketplace!";
+"submitScoreMarketplacePlayer"  = "";
+
+//Try Beintoo
+"tryBeintooHeader"              = "Join the community and get great discounts around you as reward for your achievements in this app!";
+"tryBeintooTitle"               = "Have fun & Earn";
+"tryBeintooDescCurrency"        = "Use the coins your earn in this app to redeem customized offers of your choice";
+"tryBeintooDescNoCurrency"      = "Earn Bedollars by using this app and choose the customized offer that fits better for you!";
+"tryBeintooAcceptButton"        = "Join the community";
+"tryBeintooRefuseButton"        = "No, I don't want to play&earn";
+
+// Notifications  ----------- TO TRANSLATE !!
+"notifications"                 = "Notifications";
+"messagenotificationp"          = "You have %d notifications";
+"messagenotification"           = "You have %d notification";
+"unmissionstatus"               = "Status of your mission";
+
+// Start Beintoo
+"enteremail"                        = "输入电邮地址：";
+"confirmNickname"                   = "完成注册！确认您的昵称：";
+"startBtn"                          = "开始游戏！";
+"confirmNickBtn"                    = "确认昵称";
+"registrationDisclaim"              = "Beintoo 我们绝不会滥用您的电邮地址，也不会给您发送垃圾邮件。您的电子邮件通过安全连接发送。";
+"regEmailErrorMessage"              = "电邮地址无效。";
+"loginExistingBtn"                  = "或者以现有的帐号登录 >";
+"tryBeintooBtn"                     = "尝试 Beintoo！";
+"noThanks"                          = "不，谢谢";
+"useAnotherAccount"                 = "使用另一个帐号";
+"newUser"                           = "新帐号";
+
+// Leaderboard
+"leaderboard"                       = "排行榜";
+"all"                               = "全部";
+"friends"                           = "好友";
+"tobeat"                            = "To Beat";
+"pickacontest"                      = "选择一场比赛，查看分数";
+"people"                            = "玩家";
+"leadSendChall"                     = "Send Challenge"; /*************************/
+"leadViewProfile"                   = "View profile";   /***************************/
+"leadAddFriend"                     = "Add as a friend";/***************************/
+
+
+// Achievements
+"achievements"                      = "战绩";
+"blockedby"                         = "被以下的战绩冻结";
+
+// Profile
+"profile"                           = "档案";
+"level"                             = "等级：";
+"pointsOn"                          = "分数";
+"pointsOnThisApp"                   = "在该游戏中的分数：";
+"totalScore"                        = "总分：";
+"bestScore"                         = "最高分：";
+"lastScore"                         = "上一次得分：";
+"detachFromDevice"                  = "确认需要从该设备删除帐号吗？";
+"logout"                            = "确认需要从 Beintoo 注销吗？";
+"friendList"                        = "好友列表";
+"friendRequest"                     = "好友请求";
+"sendMessage"                       = "发送消息";
+"messages"                          = "消息";
+"logoutBtn"                         = "注销";
+"detach"                            = "删除";
+
+// Friends
+"findFriends"                       = "查找好友";
+"yourFriends"                       = "您的好友";
+"friendRequests"                    = "好友请求";
+"recommendToAFriend"                = "推荐给好友";
+"findFriendsDesc"                   = "查找 Beintoo 社区的玩家";
+"yourFriendsDesc"                   = "查找 Beintoo 好友";
+"friendRequestsDesc"                = "管理您的好友请求";
+"recommendToAFriendDesc"            = "向好友推荐此应用程序";
+"addFriend"                         = "向 %@ 发送好友请求？"; 
+"addAsFriend"                       = "发送请求";
+"nofriendslabel"                    = "您还没有好友。";
+"hereAreYourFriends"                = "您的好友";
+"searchForTitle"                    = "搜索昵称、姓名或电邮地址";
+"noResult"                          = "未发现结果。";
+"noFriendshipReq"                   = "您没有好友请求";
+"friendRequests"                    = "好友请求";
+"friendReqTitle"                    = "单击姓名接受";
+"friendRequestFrom"                 = "您接受好友请求吗？";
+"noRequest"                         = "未发现请求";
+
+// Wallet
+"wallet"                            = "钱包";
+"tobeconverted"                     = "等待赎回";
+"converted"                         = "赎回的物品";
+
+// Tips and forum   
+"tipsandforum"                      = "提示和论坛";
+
+// Balance
+"balance"                           = "余额";
+"balanceTitle"                      = "Bedollar 状态";
+"nobalancelabel"                    = "您没有 Bedollar 交易。";
+"BADGE_WIN"                         = "赢得奖章";
+"CHALLENGE_ACCEPT"                  = "接受挑战";
+"CHALLENGE_INVITE"                  = "邀请挑战";
+"CHALLENGE_WIN"                     = "赢得挑战";
+"COMMENT"                           = "注释";
+"CONTEST_WIN"                       = "赢得竞赛";
+"CREATE_USER"                       = "创建用户";
+"FRIEND_ADDED"                      = "添加好友";
+"FRIEND_INVITE"                     = "邀请好友";
+"LEADERBOARD_IMPROVE"               = "排行榜动态";
+"MARKETPLACE_BUY"                   = "商城购买";
+"MARKETPLACE_SELL"                  = "商城出售";
+"SEND_BEDOLLAR_METHOD"              = "从游戏中获取的回报";
+"SHARE"                             = "共享";
+"SUBMIT_SCORE"                      = "新分数";
+"VGOOD_CONVERSION"                  = "兑换物品";
+"WEEKLY_PAYMENT"                    = "每周所得";
+"ACHIEVEMENT_UNLOCKED"              = "战绩解锁";
+
+// Challenges
+"challenges"                        = "挑战";
+"challenge"                         = "挑战";
+"pending"                           = "未处理";
+"ended"                             = "结束";
+"end"                               = "结束";
+"ongoing"                           = "正在进行";
+"from"                              = "发件人";
+"to"                                = "至";
+"status"                            = "状态：";
+"startDate"                         = "开始日期：";
+"endChallengeDate"                  = "结束日期：";
+"prize"                             = "奖金：";
+"challengeWinner"                   = "赢家：";
+"costToAccept"                      = "接受的费用：";
+// New Challenges
+"challmevsyou"          = "I bet you can not reach this score in 48 hours";
+"challmevsyoutitle"     = "You can't reach...";
+"challFriends"          = "I bet I can reach this score in 48 hours";
+"challFriendstitle"     = "I can reach...";
+"chall48"               = "I bet I can get a better score than yours in the next 48hours?";
+"chall48title"          = "Who's the best?";
+"chall48subtitle"       = "I can reach a better score than yours";
+"challhowmuchbet"       = "I bet";
+"challhowmanypoint"     = "I can reach";
+"challhowmanypointyou"  = "%@ can not reach";
+"challerror"            = "Please check input parameters";
+"challFromTo"           = "From you to ";
+"challFrom"             = "From ";
+"challYou"              = " to you";
+"challFromUser"         = "challenges you";
+"challBet"              = "Bet";
+"challCanWin"           = "You can win";
+"challPointsTarget"     = "Points to do";
+"challPoints"           = "Points";
+"clickhere"             = "click here";
+"started"				= "正在进行";
+"to be accepted"		= "未处理";
+
+//vGood
+"friends"                           = "好友";
+"whoAlsoConverted"                  = "购买此物品的其他玩家：";
+"selectFriend"                      = "选择好友";
+"doYouFriend"                       = "确认把这张优惠券作为礼品发送吗？";
+"unableToSendAsAGift"               = "请登录 Beintoo 并把该物品作为礼品发送给好友。";
+"giftSent"                          = "礼品已发送！";
+"giftNotSent"                       = "无法发送礼品。";
+"vgoodMessageBanner"                = "此分数使您获得了奖金！按下并赎回！";
+"vgoodMessageAd"                    = "比赛赞助商为";
+"multipleVgoodsLabel"               = "祝贺您！选择奖金。";
+"nothingToDispatchMsg"              = "对不起，现在您所在的地区没有新奖金。";
+"acceptBtn"                         = "接受";
+"refuseBtn"                         = "拒绝";
+"getCoupon"                         = "获得优惠券";
+"sendAsGift"                        = "作为礼品发送";
+
+// Alliances
+"alliance"                          = "组队";
+"alliances"                         = "组队";
+"alliance_create"                   = "创建组队";
+"alliance_createDesc"               = "创建您的组队";
+"alliance_your"                     = "您的组队";
+"alliance_yourDesc"                 = "查看组队的状态和详情";
+"alliance_list"                     = "组队列表";
+"alliance_listDesc"                 = "查看所有组队的列表";
+"alliancemaintextfooter"            = "为了赢得更多的奖金和 Bedollar，愿意结队并与其他队友合作的一组玩家被称为组队。";
+"alliancemembers"                   = "成员";
+"allianceadmin"                     = "管理员";
+"allianceviewmembers"               = "组队成员";
+"allianceleave"                     = "脱离组队";
+"allianceviewpending"               = "等待组队的请求";
+"allianceSearchFor"                 = "查找组队名称";
+"alliancependindialog"              = "同意接纳 %@ 加入您的组队吗？";
+"alliancecreateeditext"             = "输入组队的名称";
+"alliancemaincreate"                = "创建您的组队";
+"alliancemainlist"                  = "组队列表";
+"alliancesendreq"                   = "加入该组队";
+"alliancerequestdialog"             = "您希望发送加入该组队的请求吗？";
+"allianceleaveareyousure"           = "您确定脱离组队吗？";
+"allianceaddfriends"                = "把好友添加到组队";
+"alliancenametooshort"              = "组队的名称最短为3个字符";
+"allianceNoResult"                = "You have no pending requests right now.";
+
+// Labels
+"wehavefound"                       = "选择您想要使用的档案？";
+"selectwhich"                       = "选择或创建一个新 Beintoo 帐号。";
+"orcreate"                          = "";
+"hereare"                           = "您的挑战";
+"itstimeto"                         = "获胜的时刻到了";
+"congratulations"                   = "您获奖当之无愧，祝贺您！";
+"hereiswallet"                      = "您的奖励钱包";
+"noscoreLabel"                      = "在该游戏中没有得分。";
+"nochallenges"                      = "您在此区未遇到任何挑战";
+"startChallenge"                    = "您想发送挑战吗？下注 10 BeDollar，赢回 25。";
+"loginOn"                           = "登录";
+"no_fb_login1"                      = "登录 Beintoo，创建一个新的";
+"no_fb_login2"                      = "用户名或使用您的 Facebook 帐号";
+"orCreateAccount"                   = "或者创建新帐号";
+"nogoodslabel"                      = "您没有虚拟物品。";
+"nogoodsnolocation"                 = "请启动本地服务以便赢取奖金。";
+"signup"                            = "签字";
+"noAchievementsLabel"               = "您目前没有战绩。";
+
+// Messages
+"inbox"                             = "收件箱";
+"yourMessages"                      = "您的消息";
+"loadmoreButton"                    = "装载更多";
+"noMessages"                        = "您没有消息。";
+"newMessage"                        = "新消息";
+"reply"                             = "回答";
+"delete"                            = "删除";
+"sendmessage"                       = "选择好友并编写消息";
+"message:"                          = "消息：";
+"sendButton"                        = "发送";
+"sendMessageTitle"                  = "发送消息";
+"addressee"                         = "至";
+
+// Missions
+"missiontoachieve"                  = "完成任务并赢取奖金，请开始游戏 ";
+"missionwelcometo"                  = "欢迎来到您的";
+"missionstatusof"                   = "您的状态";
+"missionoftheweek"                  = "本周任务！";
+"missionachieveyour"                = "完成任务并";
+"missionandwinreward"               = "赢得真正的奖金！";
+"missionaccomplished"               = "任务完成！";
+"missiongetrewardnow"               = "现在获得奖金！";
+"missionredeem"                     = "赎回！";
+"missiongetbedollars"               = "Beintoo Bedollars!";
+"missionjoinnow"                    = "现在加入";
+"missionlater"                      = "接近末期";
+"missiondownloadnow"                = "下载";
+
+// AlertMessages
+"submitScoreMsg"                    = "您获得 %@ 分。";
+"submitScoreMsgSinglePoint"         = "您获得 %@ 分。";
+"playerLoginMsg"                    = "欢迎回到 %@";
+"unlockAchievMsg"                   = "战绩解锁！"; 
+"useralreadyregistered"             = "An user with this email is already registered"; /*******TRANSLATE***/
+"errorMessage"                      = "发生错误，请稍后再试。";
+"challengeSent"                     = "挑战已发送！";
+"challengeAccepted"                 = "挑战已接受！";
+"challengeRefused"                  = "挑战已拒绝。";
+"challengeOngoing"                  = "挑战进行中。";
+"noBedollarsForChall"               = "BeDollars 不足，无法发送挑战。\n需要 10 BeDollars";
+"shortMessageError"                 = "消息过短。\n 请重试。";
+"messageSent"                       = "消息已发送！";
+"messageNotSent"                    = "无法发送消息。\n 请重试。";
+"noFriendSelected"                  = "您需要选择一个好友发送消息。";
+"messageDeleted"                    = "消息已删除。";
+"messageNotDeleted"                 = "发生错误，消息未删除。请重试。";
+"requestSent"                       = "请求已发送。";
+"requestNotSent"                    = "发生错误，消息未发送。请重试。";
+"requestAccepted"                   = "请求已接受";
+"requestRefused"                    = "请求已拒绝";
+"pendingFriendRequest"              = "该用户已有一个尚未处理的请求。";
+"noUserMessage"                     = "未发现用户，请重新注册。";

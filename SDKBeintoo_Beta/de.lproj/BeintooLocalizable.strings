@@ -1,0 +1,420 @@
+// Global
+"score"					= "Punktzahl";
+"points"				= "Punkte";
+"back"					= "Zurück";
+"novice"				= "Neuling";
+"learner"				= "Lernender";
+"passionate"			= "Passionate";
+"winner"				= "Sieger";
+"master"				= "Meister";
+"endDate"				= "Enddatum:";
+"date"					= "Starttermin:";
+"from:"					= "Von:";
+"to:"					= "Zu:";
+"yes"					= "Ja";
+"login"					= "Login";
+"loginError"			= "Fehler";
+"loginErrorMsg"			= "Benutzername oder Passwort falsch. Bitte versuche es erneut.";
+"loginSuccess"			= "Willkommen bei Beintoo!";
+"loginSuccessMsg"		= "Du bist eingeloggt!";
+"cancel"				= "Abbrechen";
+"show"					= "Zeigen";
+"details"				= "Details";
+"connectionError"		= "Verbindungs Fehler. Bitte überprüfe die Internetverbindung.";
+"done"					= "Fertig";
+"best"					= "Beste: ";
+"last"					= "Letzte: ";
+"nickname"				= "Spitzname:";
+"lederboardNoResult"    = "Mach neue Freunde und schlag ihre Highscore!";
+
+// Home
+"profileDesc"			= "";
+"leaderboardDesc"		= "";
+"walletDesc"			= "";
+"challengesDesc"		= "";
+"newMessages"			= "";
+"achievementsDesc"		= "";
+"tipsandforumDesc"      = "";
+"tryBeintooMessage"		= "";
+"playHardMessage"       = "";
+
+// Give Bedollars
+"giveBedollarMsg"      = "Du hast gerade %i Bedollar verdient! Benutze sie um tolle Angebote auf Beintoo einzulösen";
+"giveBedollarsMsg"      = "Du hast gerade %i Bedollars verdient! Benutze sie um tolle Angebote auf Beintoo einzulösen";
+"giveBedollarFloatMsg"      = "Du hast gerade %.1f Bedollar verdient! Benutze sie um tolle Angebote auf Beintoo einzulösen";
+"giveBedollarsFloatMsg"      = "Du hast gerade %.1f Bedollars verdient! Benutze sie um tolle Angebote auf Beintoo einzulösen";
+
+// Post Signup Tutorial
+"tutorialFirstSentenceBold" = "SPIELE";
+"tutorialFirstSentence" = "/ mit deinen Lieblings-Apps im Beintoo Netzwerk";
+"tutorialSecondSentenceBold" = "VERDIENE";
+"tutorialSecondSentence" = "/ Bedollars mit deiner täglichen Freizeitaktivität";
+"tutorialThirdSentenceBold" = "EINLÖSEN";
+"tutorialThirdSentence" = "/ Hol dir Echtwelt Angebote im Beintoo Store";
+
+"tutorialProceedButton" = "Jetzt starten!";
+
+"signupMainSentence1" = "Werde Mitglied";
+"signupMainSentence2" = " der Community ";
+"signupMainSentence3" = "verdiene Bedollars ";
+"signupMainSentence4" = "und ";
+"signupMainSentence5" = "löse ";
+"signupMainSentence6" = "die realen Angebote ein";
+
+"signupOrLabel"       = "oder";
+
+"new_login_title" = "Hier weitere Bedollars verdienen und Angebote einlösen!";
+
+"signupTextFieldPlaceholder" = "Melde dich mit deiner email Adresse an!";
+
+"loginEmailPlaceholder" = "E-mail";
+"loginPasswordPlaceholder" = "Passwort";
+
+"successfullyUnfrined" = "Du hast %@ erfolgreich aus deiner Freundesliste entfernt";
+"noFriendsAlliance" = "Finde neue Freunde und lade sie in deine Allianz ein!";
+"noAlliancesInContest" = "Bisher keine aktiven Allianzen im Wettbewerb!";
+"noChallengesCompleted" = "Du hast deine Herausforderung noch nicht beendet!";
+"noNotifications"               = "Du hast zur Zeit keine Benachrichtigungen!";
+"friendshipRequestSent" = "Freundesanfrage erfolgreich an %@ gesendet";
+
+"connectWithFacebook" = "Mit Facebook verbinden";
+
+"noAlliances"           = "Keine";
+
+"no" = "Nein";
+
+"settingsLabel"         = "Einstellungen";
+
+"forgotPasswordButton" = "Passwort vergessen?";
+"forgotPasswordTitle" = "Um ein neues Passwort zu erhalten, gib hier deine email Adresse ein";
+"forgotPasswordSendEmail" = "Neues Passwort senden";
+"forgotPasswordAlertTitle" = "Erfolgreich gesendet!";
+"forgotPasswordAlertSuccess" = "Ein neues Passwort wurde an deinen Konto verschickt";
+"forgotPasswordAlertTitleError" = "Fehler";
+"forgotPasswordAlertError" = "Die eingegebene email gehört zu keinem Konto";
+
+// DashboardPlayer
+"dashplayerhometext"            = "Mehr Spaß haben, mit anderen Spielern spielen und Gewinne für das echte Leben erspielen! Willkommen beim Beintoo Netzwerk!";
+"dashplayerleaderboardtext"     = "Steige in der Rangliste und vergleiche deine Punkte mit denen deiner Freunde!";
+"dashplayerchallengestext"      = "Starte Wettkämpfe mit Freunden um noch mehr Bedollars zu gewinnen!";
+"dashplayerprofiletext"         = "Erstelle dein Profil, triff neue Freunde und verwalte deine Preise.";
+"dashplayerforumtips"           = "Tausche Tipps aus";
+"dashplayersignupnow"           = "Melde dich jetzt an";
+
+// Submit Scores
+"submitScoreMsgSinglePoint"		= "Du hast %@ Punkte bekommen.";
+"submitScoreMsg"		= "Du hast %@ Punkte bekommen.";
+"unlockAchievMsg"		= "Erfolg freigespielt!";
+"playerLoginMsg"        = "Willkommen zurück %@";
+
+// Notifications
+"notifications"                 = "Benachrichtigungen";
+"messagenotificationp"          = "Du hast %d Benachrichtigungen";
+"messagenotification"           = "Du hast %d Benachrichtigung";
+"unmissionstatus"               = "Status deiner Mission";
+
+// Start Beintoo
+"enteremail"			= "Gib deine E-Mail Adresse ein:";
+"registrationComplete"  = "Anmeldung abgeschlossen!";
+"confirmNickname"		= "Bestätige deinen Spitznamen:";
+"startBtn"				= "Viel Spaß!";
+"confirmNickBtn"		= "Bestätige deinen Spitznamen";
+"registrationDisclaim"	= "Deine E-Mail wird über eine sichere Verbindung gesendet. Mit der Anmeldung bei Beintoo erklärst du dich mit der Beintoo Nutzungsbedingung und Datenschutzerklärung einverstanden";
+"regEmailErrorMessage"	= "Ungültige email Adresse.";
+"loginExistingBtn"		= "Bereits registriert? Hier anmelden »";
+"tryBeintooBtn"			= "Anmeldung";
+"noThanks"				= "Später erinnern";
+"useAnotherAccount"		= "Ein anderes Konto verwenden";
+"newUser"				= "Neues Konto";
+
+//Marketplace
+"bedollars"                     = "Bedollars";
+"MPmarketplaceTitle"            = "Einlösen";
+"MPtextDescriptionLong"         = "Coupons einlösen oder als Geschenk verschicken";
+"MPdescription"                 = "";
+"MPcredits"                     = "Deine Credits:";
+"MPmainSegmentedIndexTitle0"    = "Spotlight";
+"MPmainSegmentedIndexTitle1"    = "National";
+"MPmainSegmentedIndexTitle2"    = "In der Nähe";
+"MPchildSegmentedIndexTitle0"   = "Top";
+"MPchildSegmentedIndexTitle1"   = "Kategorien";
+"MPsendAsAGift"                 = "Als Geschenk senden";
+"MPbuy"                         = "Jetzt kaufen";
+"MPnoMoneyToGetCoupon"          = "Du hast nicht genug Bedollars um dieses Angebot zu kaufen, dir fehlen %.2f %@, los, spiele weiter um mehr zu verdienen!";
+"MPnoAvailableCoupons"          = "Es gibt keine Coupons in dieser Kategorie";
+"MPdistance"                    = "Entfernung";
+"MPbuyItNow"                    = "Jetzt kaufen";
+"MPyouAreGoingToBuy"            = "Du kaufst:";
+"MPwriteNewComment"             = "Kommentar schreiben";
+
+"MPsendRate"                    = "Abstimmen";
+"MPwarning"                     = "Achtung!";
+"MPnoStarsSelected"             = "Wähle zumindest einen Stern um deine Stimme abzugeben.";
+"ok"                            = "Ok";
+"error"                         = "Fehler!";
+"MPemptyCommentError"           = "Schreibe etwas, um deinen Kommentar abzusenden.";
+"MPratingSent"                  = "Du hast abgestimmt!";
+"MPsend"                        = "Schicken";
+"MPsentComment"                 = "Kommentar geschickt!";
+"MPnoAvailableComments"         = "Es gibt keinen Kommentar zu diesem Coupon";
+"MPaddress"                     = "Adresse";
+"releaseToRefresh"              = "Zum Aktualisieren loslassen...";
+"lastUpdate"                    = "Letzte Aktualisierung";
+"neverUpdated"                  = "Nie aktualisiert";
+"pullDownToRefresh"             = "Zum aktualisieren herunterziehen...";
+"loading"                       = "Wird geladen...";
+"upToDate"                      = "Neuester Stand.";
+"MPorderByPrice"                = "Nach Preis ordnen";
+"submitScoreMarketplaceMsg"     = "Du hast jetzt %.0f %@, verschwende sie nicht! Nutze sie um Premium Angebote einzulösen!";
+"submitScoreMarketplacePlayer"  = "";
+
+//Try Beintoo
+"tryBeintooHeader"              = "Werde Mitglied in der Community und erhalte tolle Rabatte in deiner Nähe, für deine erspielten Erfolge in dieser App!";
+"tryBeintooTitle"               = "Hab Spaß & verdiene!";
+"tryBeintooDescCurrency"        = "Nutze deine Bedollars, die du in dieser App verdient hast, um maßgeschneiderte Angebote deiner Wahl einzulösen";
+"tryBeintooDescNoCurrency"      = "Verdiene Bedollars mit dieser App und wähle das für dich beste Angebot!";
+"tryBeintooAcceptButton"        = "Werde Mitglied in der Community!";
+"tryBeintooRefuseButton"        = "Nein, ich will nicht spielen und etwas verdienen";
+
+// Leaderboard
+"leaderboard"			= "Rangliste";
+"all"					= "Alles";
+"friends"				= "Freunde";
+"tobeat"                = "Zu schlagen";
+"pickacontest"			= "Wähle einen Wettbewerb, um die Punktzahlen zu sehen";
+"people"                = "Menschen";
+"leadSendChall"         = "Herausforderung abschicken";
+"leadViewProfile"       = "Profil ansehen";
+"leadAddFriend"         = "Als Freund hinzufügen";
+
+// Achievements
+"achievements"			= "Erfolge";
+"blockedby"				= "Blockiert durch die folgenden Erfolge";
+
+// Profile
+"profile"				= "Profil";
+"level"					= "Level:";
+"pointsOn"				= "Punkte in";
+"pointsOnThisApp"		= "Punkte in dieser App:";
+"totalScore"			= "Gesamtpunktzahl:";
+"bestScore"				= "Beste Punktzahl:";
+"lastScore"				= "Letzte Punktzahl:";
+"detachFromDevice"		= "Bist du sicher, dass du dein Konto von diesem Gerät entfernen willst?";
+"logout"				= "Bist du sicher, dass du dich aus Beintoo ausloggen willst?";
+"friendList"			= "Freundesliste"; //check
+"friendRequest"			= "Freundschaftsanfragen";
+"sendMessage"			= "Sende Nachricht";
+"messages"				= "Nachrichten";
+"logoutBtn"				= "Logout";
+"detach"				= "Entfernen";
+
+// Friends
+"findFriends"			= "Freunde finden";
+"yourFriends"			= "Deine Freunde";
+"friendRequests"		= "Freundschaftsanfragen";
+"recommendToAFriend"	= "Einem Freund empfehlen";
+"findFriendsDesc"		= "Finde neue Leute in der Community";
+"yourFriendsDesc"		= "Deine Beintoo Freunde ansehen";
+"friendRequestsDesc"	= "Verwalte deine Freundschaftsanfragen";
+"recommendToAFriendDesc"= "Empfehle dieses App";
+"addFriend"				= "Willst du eine Anfrage an %@ schicken?";
+"addAsFriend"			= "Abschicken";
+"nofriendslabel"		= "Mache jetzt neue Freunde und sehe sie dir hier an!";
+"hereAreYourFriends"	= "Deine Freunde";
+"searchForTitle"		= "Suche nach einem Spitznamen, einem Namen oder einer email Adresse";
+"noResult"				= "Sorry, keine Ergebnisse gefunden!";
+"noFriendshipReq"		= "Du hast keine neue Anfragen";
+"friendRequests"		= "Freundschaftsanfragen";
+"friendReqTitle"		= "Klicke auf den Namen um zu akzeptieren";
+"friendRequestFrom"		= "Akzeptierst du die Freundschaftsanfrage?";
+"noRequest"				= "Du hast derzeit keine ausstehenden Freundschaftsanfragen.";
+"alreadyFriends"        = "Ihr seit bereits Freunde!";
+
+// Wallet
+"wallet"				= "Deine Angebote";
+"tobeconverted"			= "Einzulösen";
+"converted"				= "Eingelöst";
+
+// Tips and forum
+"tipsandforum"          = "Tipps und Forum";
+
+// Balance
+"balance"				= "Bilanz";
+"balanceTitle"			= "Bedollar-Status";
+"nobalancelabel"		= "Du hast noch keine Bedollar Transaktionen durchgeführt. Spiele jetzt um Bedollars zu sammeln und löse sie gegen tolle Angebote ein!";
+"BADGE_WIN"				= "Badge gewonnen";
+"CHALLENGE_ACCEPT"		= "Herausforderung akzeptiert";
+"CHALLENGE_INVITE"		= "Herausforderung einladen";
+"CHALLENGE_WIN"			= "Herausforderung gewonnen";
+"COMMENT"				= "Kommentar";
+"CONTEST_WIN"			= "Wettbewerb gewonnen";
+"CREATE_USER"			= "Benutzer angelegt";
+"FRIEND_ADDED"			= "Freund hinzugefügt";
+"FRIEND_INVITE"			= "Freund eingeladen";
+"LEADERBOARD_IMPROVE"	= "Rangliste verbessert";
+"MARKETPLACE_BUY"		= "Kauf";
+"MARKETPLACE_SELL"		= "Verkauf";
+"SEND_BEDOLLAR_METHOD"	= "Von der App erhalten";
+"SHARE"					= "Teilen";
+"SUBMIT_SCORE"			= "Neue Score";
+"VGOOD_CONVERSION"		= "Preis eingelöst";
+"WEEKLY_PAYMENT"		= "Wöchentliches Gehalt";
+"ACHIEVEMENT_UNLOCKED"  = "Erfolg freigespielt";
+"VOTE"                  = "Abstimmung";
+
+// Challenges
+"challenges"			= "Herausforderungen";
+"challenge"				= "Herausforderung";
+"pending"				= "Warten";
+"ended"					= "Beendet";
+"end"					= "Beendet";
+"ongoing"				= "Geht weiter";
+"from"					= "Von";
+"to"					= "Zu";
+"status"				= "Status:";
+"startDate"				= "Starttermin:";
+"endChallengeDate"		= "Enddatum:";
+"prize"					= "Preis:";
+"challengeWinner"		= "Gewinner:";
+"costToAccept"			= "Kosten, wenn akzeptiert:";
+
+// New Challenges
+"challmevsyou"          = "Ich wette, du kannst meine Punktzahl nicht innerhalb von 48 Stunden schlagen!";
+"challmevsyoutitle"     = "Du kannst das nicht schlagen...";
+"challFriends"          = "Ich wette, ich kann diese Punktzahl in 48 Stunden schlagen";
+"challFriendstitle"     = "Ich kann das schlagen...";
+"chall48"               = "Ich wette, ich kann ein besseres Ergebnis als du erzielen und zwar innerhalb der nächsten 48 Stunden";
+"chall48title"          = "Wer ist der Beste?";
+"chall48subtitle"       = "ich kann eine bessere Punktzahl als du erreichen";
+"challhowmuchbet"       = "Ich wette";
+"challhowmanypoint"     = "Werde ich erreichen";
+"challhowmanypointyou"  = "kann %@ nicht schlagen";
+"challerror"            = "Please check input parameters";
+"challFromTo"           = "Von dir zu ";
+"challFrom"             = "Von ";
+"challYou"              = " zu dir";
+"challFromUser"         = "fordert dich heraus";
+"challBet"              = "Wette";
+"challCanWin"           = "Du kannst gewinnen";
+"challPointsTarget"     = "Fehlende Punkte";
+"challPoints"           = "Punkte";
+"clickhere"             = "Klicke hier";
+"started"				= "Geht weiter";
+"to be accepted"		= "Warten";
+
+//vGood
+"friends"				= "Freunde";
+"whoAlsoConverted"		= "Die auch eingekauft haben:";
+"selectFriend"			= "Wähle einen Freund";
+"doYouFriend"			= "Bist du sicher, dass du diesen Coupon als Geschenk schicken willst?";
+"unableToSendAsAGift"	= "Bitte logge dich auf Beintoo ein, um dieses Angebot als Geschenk an einen Freund zu senden.";
+"giftSent"				= "Geschenk gesendet!";
+"giftNotSent"			= "Kann das Geschenk nicht abschicken";
+"vgoodMessageBanner"	= "Du hast eine Belohnung für deine Punktzahl verdient! Tippe hier um sie einzulösen!";
+"vgoodMessageAd"        = "Dein Spiel wird gesponsort von:";
+"multipleVgoodsLabel"	= "Glückwünsche! Wähle deine Belohnungen";
+"nothingToDispatchMsg"  = "Entschuldige, es gibt leider keine Angebote in deiner Nähe";
+"acceptBtn"				= "Akzeptieren";
+"refuseBtn"				= "Abbrechen";
+"getCoupon"				= "Jetzt kaufen";
+"sendAsGift"			= "Als GEschenk verschicken";
+
+// Alliances
+"alliance"                  = "Allianz";
+"alliances"                 = "Allianzen";
+"alliance_create"           = "Allianz erstellen";
+"alliance_createDesc"       = "Erstelle deine Allianz";
+"alliance_your"             = "Deine Allianz";
+"alliance_yourDesc"         = "Details zu deiner Allianz";
+"alliance_list"             = "Allianzen Liste";
+"alliance_listDesc"         = "Alle Allianzen ansehen";
+"alliancemaintextfooter"    = "Allianzen sind Gruppen von Spielern, die als Mannschaft zusammenarbeiten und gegen andere Allianzen kämpfen, um mehr Preise und mehr Bedollars zu gewinnen.";
+"alliancemembers"           = "Mitglieder";
+"allianceadmin"             = "Admin";
+"allianceviewmembers"       = "Mitglieder der Allianz";
+"allianceleave"             = "Verlasse die Allianz";
+"allianceviewpending"       = "Ausstehenden Einladungen";
+"allianceSearchFor"         = "Suche eine Allianz";
+"alliancependindialog"      = "Möchstest du %@ in deine Allianz lassen?";
+"alliancecreateeditext"     = "Gib den Namen für deine Allianz ein";
+"alliancemaincreate"        = "Erstelle deine Allianz";
+"alliancemainlist"          = "Allianzen Liste";
+"alliancesendreq"           = "Dieser Allianz beitreten";
+"alliancerequestdialog"     = "Willst du einen Anfrage abschicken um dieser Allianz %s beizutreten?";
+"allianceleaveareyousure"   = "Bist du sicher, dass du die Allianz verlassen willst?";
+"allianceaddfriends"        = "Freunde zu deiner Allianz hinzufügen";
+"alliancenametooshort"      = "Die Mindestlänge des Namens muss 3 Zeichen betragen";
+"allianceNoResult"        = "Du hast derzeit keine ausstehenden Freundschaftsanfragen.";
+
+//Labels
+"wehavefound"			= "Welches Profil möchtest du verwenden?";
+"selectwhich"			= "Wähle ein Profil ";
+"orcreate"				= "oder verwende ein anderes Konto.";
+"hereare"				= "Hier sind deine Herausforderungen";
+"itstimeto"				= "Es ist Zeit zu gewinnen";
+"congratulations"		= "Glückwünsch! Du verdienst eine besondere Belohnung!";
+"hereiswallet"			= "Hier bekommst du deine Belohnungen";
+"noscoreLabel"			= "Keine Punkte in dieser App.";
+"noscoreLabelOtherUser" = "Keine Punkte in dieser App.";
+"nochallenges"			= "Du hast keine Herausforderungen. Fordere einen Freund heraus.";
+"startChallenge"		= "Möchtest du eine Herausforderung abschicken? Wette 10 Bedollars um 25 Bedollars zu gewinnen.";
+"loginOn"				= "Login";
+"no_fb_login1"			= "Anmeldung auf Beintoo, erstelle einen neuen";
+"no_fb_login2"			= "Benutzer oder nutze dein Facebook Konto";
+"orCreateAccount"		= "oder erstelle ein neues Konto";
+"nogoodslabel"			= "Du hast noch keine Belohnungen eingesackt.";
+"nogoodsnolocation"		= "Bitte aktiviere standortbezogene Dienste, um Angebote zu erhalten";
+"signup"				= "Anmeldung";
+"noAchievementsLabel"	= "In dieser app gibt es keine Erfolge freizuschalten.";
+
+
+
+// Messages
+"inbox"					= "Inbox";
+"yourMessages"			= "Deine Nachrichten";
+"loadmoreButton"		= "Mehr laden";
+"noMessages"			= "Du hast keine Nachrichten.";
+"newMessage"			= "Neue Nachrichten";
+"reply"					= "Antworten";
+"delete"				= "Löschen";
+"sendmessage"			= "Wähle einen Freund und schreibe deine Nachricht";
+"message:"				= "Nachricht:";
+"sendButton"			= "Senden";
+"sendMessageTitle"		= "Sende Nachricht";
+"addressee"				= "Zu";
+
+// Missions
+"missiontoachieve"      = "Um deine Mission zu erfüllen und deine Belohnung zu gewinnen, spiele jetzt ";
+"missionwelcometo"      = "Willkommen bei deiner";
+"missionstatusof"       = "Status deiner";
+"missionoftheweek"      = "MISSION DER WOCHE!";
+"missionachieveyour"    = "SCHAFFE DEINE MISSION UND";
+"missionandwinreward"   = "VERDIENE DIESE ECHTE BELOHNUNG!";
+"missionaccomplished"   = "Mission erfüllt!";
+"missiongetrewardnow"   = "HOL DIR DEINE BELOHNUNG";
+"missionredeem"         = "Einlösen!";
+"missiongetbedollars"   = "Beintoo Bedollars!";
+"missionjoinnow"        = "Jetzt spielen!";
+"missionlater"          = "Später";
+"missiondownloadnow"    = "Jetzt herunterladen";
+
+// AlertMessages
+"useralreadyregistered" = "Ein Benutzer mit dieser E-Mail Adresse ist bereits registriert";
+"errorMessage"			= "Ein Fehler ist aufgetreten, bitte versuche es später erneut.";
+"challengeSent"			= "Herausforderung gesendet!";
+"challengeAccepted"		= "Herausforderung akzeptiert!";
+"challengeRefused"		= "Herausforderung abgelehnt.";
+"challengeOngoing"		= "Herausforderung bereits im Gange.";
+"noBedollarsForChall"   = "Nicht genug Bedollars, um eine Herausforderung zu senden. \n10 Bedollars benötigt";
+"shortMessageError"		= "Nachricht zu kurz. \nBitte erneut versuchen.";
+"messageSent"			= "Nachricht gesendet!";
+"messageNotSent"		= "Kann die Nachricht nicht senden. \n Bitte erneut versuchen";
+"noFriendSelected"		= "Wähle einen Freund, um deine Nachricht zu senden";
+"messageDeleted"		= "Nachricht gelöscht.";
+"messageNotDeleted"		= "Ein Fehler ist aufgetreten, Nachricht nicht gelöscht. Bitte erneut versuchen.";
+"requestSent"			= "Anfrage gesendet";
+"requestNotSent"		= "Ein Fehler ist aufgetreten, Anfrage nicht gesendet. Bitte erneut versuchen.";
+"requestAccepted"		= "Anfrage angenommen";
+"requestRefused"		= "Anfrage abgelehnt";
+"pendingFriendRequest"  = "Du hast bereits eine ausstehende Anforderung dieses Benutzers.";
+"noUserMessage"			= "Benutzer nicht gefunden. Bitte melde dich erneut an.";

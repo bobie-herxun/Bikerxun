@@ -1,0 +1,378 @@
+// Global
+
+"score"				= "점수";
+"points"            = "포인트";
+"back"				= "뒤로";
+"novice"            = "입문";
+"learner"				= "하수";
+"passionate"		    = "중수";
+"winner"			    = "고수";
+"master"			    = "마스터";
+"endDate"				= "종료일";
+"date"					= "일자";
+"from:"					= "부터";
+"to:"					= "까지";
+"yes"					= "예";
+"login"					= "로그인";  
+"loginError"			= "에러";  
+"loginErrorMsg"			= "사용자 ID와 암호가 틀립니다.  다시 확인하여 주십시오"; 
+"loginSuccess"			= "돌아오신 것을 환영합니다.";  
+"loginSuccessMsg"	    = "로그인 되었습니다.";  
+"cancel"				= "취소";  
+"show"					= "보기";  
+"details"				= "세부사항";  
+"connectionError"		= "접속에러, 인터넷 접속환경을 확인하여 주십시오"; 
+"done"					= "완료";  
+"best"					= "최고:%@"; 
+"last"					= "최종:%@";  
+"nickname"				= "별명";  
+"lederboardNoResult"    = "리더보드에서 새로운 친구를 사귀거나 내기를 해보세요.";
+
+"MPmarketplaceTitle"    = "구매";
+"MPdescription"         = "오퍼를 구매하기 위해 에덴머니를 사용하세요";
+
+// Dashboard
+
+"profileDesc"			= "나의 통계치 보기";
+"leaderboardDesc"		= "글로벌 점수 확인";
+"walletDesc"			= "당신의 오퍼를 모으세요";
+"challengesDesc"		= "도전기록 관리";
+"achievementsDesc"		= "실적 해지";
+"tipsandforumDesc"      = "팁 공유";
+"newMessages"			= "새로운 메시지";
+"tryBeintooMessage"		= "Beintoo 서비스에 등록하셔서 놀라운 할인 혜택을 받으세요.";
+"playHardMessage"       = "게임으로 모은 Bedollar로 제품을 구매하세요.";
+
+// DashboardPlayer
+
+"dashplayerhometext"            = "Beintoo서비스에 오신 것을 환영합니다. 더 많은 재미와 커뮤니티 서비스, 실물 구매 혜택을 누리세요.";
+"dashplayerleaderboardtext"     = "리더보드의 기록을 도전해 보세요";
+"dashplayerchallengestext"      = "친구와의 도전을 통해 더 많은 Bedollar를 얻으세요";
+"dashplayerprofiletext"         = "개인 정보 관리, 새로운 친구 등록, 오퍼 관리";
+"dashplayerforumtips"           = "팁 공유";
+"dashplayersignupnow"           = "가입하기";
+
+// Notifications
+
+"submitScoreMsgSinglePoint"		= "%@ 포인트를 획득하였습니다";
+"submitScoreMsg"                = "%@ 포인트를 획득하였습니다";
+"playerLoginMsg"                = "%@에 돌아오신 것을 환영합니다";
+"unlockAchievMsg"               = "실적 해제";
+
+// Give Bedollars
+
+"giveBedollarMsg"           = "%i Bedollar를 획득하였습니다.  새로운 상품을 구매하는데 사용하십시오";
+"giveBedollarsMsg"          = "%i Bedollar를 획득하였습니다.  새로운 상품을 구매하는데 사용하십시오";
+"giveBedollarFloatMsg"      = "%1.f Bedollar를 획득하였습니다.  새로운 상품을 구매하는데 사용하십시오";
+"giveBedollarsFloatMsg"     = "%1.f Bedollar를 획득하였습니다.  새로운 상품을 구매하는데 사용하십시오";
+
+// Post Signup Tutorial
+
+"tutorialFirstSentenceBold"     = "실행";
+"tutorialFirstSentence"         = "Beintoo 네크워크에서 좋아하는 어플을 찾아보세요";
+"tutorialSecondSentenceBold"    = "획득";
+"tutorialSecondSentence"        = "Bedollar를 모아보세요";
+"tutorialThirdSentenceBold"     = "구매";
+"tutorialThirdSentence"         = "Beintoo 상점에서 실물을 얻을 수 있습니다.";
+
+"tutorialProceedButton" = "지금 시작!";
+
+"signupMainSentence1" = "참여";
+"signupMainSentence2" = "와 통신하기";
+"signupMainSentence3" = "획득";
+"signupMainSentence4" = "Bedollar와 ";
+"signupMainSentence5" = "구매";
+"signupMainSentence6" = "고품격의 실물 제안";
+
+"signupOrLabel"       = "거나/혹은";
+
+"new_login_title"       = "Bedollar를 획득하신 후 실물과 교환하세요";
+
+"signupTextFieldPlaceholder" = "Email로 가입하세요";
+
+"loginEmailPlaceholder" = "Email";
+"loginPasswordPlaceholder" = "암호";
+
+"successfullyUnfrined"  = "%@ 친구목록에서 제거되었습니다.";
+"friendshipRequestSent" = "%@에게 친구 요청을 보냈습니다.";
+"noFriendsAlliance"     = "새로운 친구들을 만들어 동맹을 맺으세요.";
+"noAlliancesInContest"  = "해당 주소로 활성화된 동맹이 없습니다.";
+"noNotifications"       = "수신된 쪽지가 없습니다.";
+
+"connectWithFacebook" = "페이스북 연동";
+
+"noAlliances"           = "없음";
+
+"no" = "No";
+
+//Forgot Password and Settings
+
+"settingsLabel"             = "세팅";
+
+//Forgot Password
+
+"forgotPasswordButton"      = "암호를 잊으셨나요?";
+"forgotPasswordTitle"       = "새로운 암호를 설정하시려면 이메일 주소를 입력해 주세요";
+"forgotPasswordSendEmail"   = "새로운 암호 보내기";
+"forgotPasswordAlertTitle"  = "전송 완료!";
+"forgotPasswordAlertSuccess" = "새로운 암호가 등록된 이메일로 전달되었습니다.";
+"forgotPasswordAlertTitleError" = "오류";
+"forgotPasswordAlertError"  = "입력하신 메일은 등록되어 있지 않습니다.";
+
+// Notifications
+"notifications"                 = "쪽지";
+"messagenotificationp"          = "%d개의 쪽지가 있습니다.";
+"messagenotification"           = "%d개의 쪽지가 있습니다.";
+"unmissionstatus"               = "미션 상황";
+"submitScoreMarketplacePlayer"  = "";
+
+//Try Beintoo
+"tryBeintooHeader"              = "커뮤니티에 접속하셔서 당신이 달성한 성과에 대한 보상으로 오퍼를 구매하세요.";
+"tryBeintooTitle"               = "즐기면서 돈 버세요.";
+"tryBeintooDescCurrency"        = "이 앱을 통해 획득한 코인으로 당신이 원하시는 오퍼를 구매하는데 사용하세요.";
+"tryBeintooDescNoCurrency"      = "이 앱을 통해서 Bedollar를 획득하시고 적합한 오퍼를 선택하세요.";
+"tryBeintooAcceptButton"        = "커뮤니티 접속";
+"tryBeintooRefuseButton"         = "접속하기를 원하지 않습니다.";
+
+// Start Beintoo
+"enteremail"			= "Email 주소를 입력하세요";
+"registrationComplete"  = "등록 완료";
+"confirmNickname"		= "별명을 확인하세요";
+"startBtn"				= "시작";
+"confirmNickBtn"		= "별명 확인";
+"registrationDisclaim"	= "Beintoo의 사용자 서비스 약관과 개인보호 정책에 동의하십니까";
+"regEmailErrorMessage"	= "유효하지 않은 Email 주소입니다.";
+"loginExistingBtn"		= "이미 등록된 사용자라면 여기서 로그인하십시오";
+"tryBeintooBtn"         = "가입하기";
+"noThanks"              = "나중에 알려주기";
+"useAnotherAccount"     = "다른 계정 사용";
+"newUser"               = "신규 계정";
+
+// Leaderboard
+"leaderboard"           = "리더보드";
+"all"					= "모두";
+"friends"				= "친구들";
+"tobeat"                = "경쟁";
+"pickacontest"			= "점수를 보시려면 해당 내용을 선택해 주세요";
+"people"                = "참가자";
+"leadSendChall"         = "도전 신청";
+"leadViewProfile"       = "정보 보기";
+"leadAddFriend"         = "친구로 추가";
+
+// Achievements
+"achievements"			= "달성";
+"blockedby"			    = "아래 목록에 의해서 접근 제한이 되었습니다.";
+
+// Profile
+"profile"				= "정보";
+"level"					= "레벨:";
+"pointsOn"				= "포인트";
+"pointsOnThisApp"		= "이 앱의 포인트";
+"totalScore"			= "총점:";
+"bestScore"				= "최고 점수:";
+"lastScore"				= "지난 점수:";
+"detachFromDevice"		= "장비에서 계정 정보를 제거하시겠습니까";
+"logout"				= "Beintoo 서비스에서 로그아웃 하시겠습니까?";
+"friendList"			= "친구목록";
+"friendRequest"			= "친구요청";
+"sendMessage"			= "쪽지 보내기";
+"messages"				= "쪽지";
+"logoutBtn"				= "로그아웃";
+"detach"                = "제거";
+
+// Friends
+"findFriends"			= "친구찾기";
+"yourFriends"			= "친구들";
+"friendRequests"		= "친구요청";
+"recommendToAFriend"	= "친구에게 추천";
+"findFriendsDesc"		= "현재 목록에서 사람 찾기";
+"yourFriendsDesc"		= "Beintoo 친구 보기";
+"friendRequestsDesc"	= "친구 요청 관리";
+"recommendToAFriendDesc"= "친구에게 현재앱 추천";
+"addFriend"				= "%@에게 친구 요청할까요?";
+"addAsFriend"			= "요청 전송";
+"nofriendslabel"		= "새로운 친구를 맺고 여기서 확인하십시오!";
+"hereAreYourFriends"	= "친구들";
+"searchForTitle"		= "별명과 이름, Email로 검색";
+"noResult"				= "검색 결과 없음";
+"noFriendshipReq"		= "친구 요청이 없습니다.";
+"friendRequests"		= "친구 요청";
+"friendReqTitle"		= "수락을 위해서 이름을 클릭해 주세요";
+"friendRequestFrom"		= "친구 요청을 수락하시겠습니까";
+"noRequest"				= "지연된 친구 요청이 없습니다";
+"alreadyFriends"        = "이미 친구 수락이 완료되었습니다.";
+
+// Wallet
+"wallet"				= "나의 제안";
+"tobeconverted"			= "구매 예정";
+"converted"				= "구매 완료";
+
+// Tips and forum
+"tipsandforum"          = "팁과 포럼";
+
+// Balance
+"balance"				= "잔액";
+"balanceTitle"			= "Bedollar 상태";
+"nobalancelabel"		= "Bedollar거래 내역이 없습니다.  게임을 통해 획득하여 물품을 구매하세요.";
+"BADGE_WIN"				= "획득한 배지";
+"CHALLENGE_ACCEPT"		= "도전 수락";
+"CHALLENGE_INVITE"		= "도전 초청";
+"CHALLENGE_WIN"			= "도전 승리";
+"COMMENT"				= "의견";
+"CONTEST_WIN"			= "우승내역";
+"CREATE_USER"			= "생성";
+"FRIEND_ADDED"			= "친구 더하기";
+"FRIEND_INVITE"			= "친구 초청";
+"LEADERBOARD_IMPROVE"	= "리더보드 개선";
+"MARKETPLACE_BUY"		= "구매";
+"MARKETPLACE_SELL"		= "판매";
+"SEND_BEDOLLAR_METHOD"	= "앱에서 받아오기";
+"SHARE"					= "공유";
+"SUBMIT_SCORE"			= "새점수";
+"VGOOD_CONVERSION"		= "신청";
+"WEEKLY_PAYMENT"		= "주간 판매";
+"ACHIEVEMENT_UNLOCKED"  = "실적 해제";
+"VOTE"                  = "순위";
+
+// Challenges
+"challenges"			= "도전";
+"challenge"				= "도전";
+"pending"				= "지연";
+"ended"					= "종결";
+"end"					= "종결";
+"ongoing"				= "계속";
+"from"					= "어디서";
+"to"					= "까지";
+"status"				= "상태:";
+"startDate"				= "시작일:";
+"endChallengeDate"		= "종료일:";
+"prize"					= "오퍼:";
+"challengeWinner"		= "우승자:";
+"costToAccept"			= "승인 금액:";
+
+// New Challenges
+
+"challmevsyou"          = "당신이 이 점수에 48시간 안에 도달할 수 없다는 것에 걸겠습니다";
+"challmevsyoutitle"     = "도달할 수 없습니다...";
+"challFriends"          = "내가 48시간 안에 이 점수에 도달할 수 있다는 것에 걸겠습니다.";
+"challFriendstitle"     = "도달할 수 있습니다...";
+"chall48"               = "다음 48시간 내에 당신보다 더 나은 점수를 얻을 수 잇다는 데 걸겠습니다.";
+"chall48title"          = "누가 최고점인가요?";
+"chall48subtitle"       = "당신들보다 더 나은 점수를 얻을 수 있습니다.";
+"challhowmuchbet"       = "걸겠습니다.";
+"challhowmanypoint"     = "도달할 수 있습니다.";
+"challhowmanypointyou"  = "%@에 도달할 수 없습니다.";
+"challerror"            = "입력값을 확인해 주세요";
+"challFromTo"           = "당신으로부터";
+"challFrom"             = "로부터";
+"challYou"              = "에게";
+"challFromUser"         = "도전";
+"challBet"              = "배팅";
+"challCanWin"           = "이길 수 있습니다.";
+"challPointsTarget"     = "시행하기 위한 포인트";
+"challPoints"           = "포인트";
+"clickhere"             = "여기를 클릭하세요";
+"started"				= "계속";
+"to be accepted"		= "지연";
+
+//vGood
+"friends"				= "친구들";
+"whoAlsoConverted"		= "Who also redeemed:";
+"selectFriend"			= "친구를 선택하세요";
+"doYouFriend"			= "이 쿠폰을 선물로 전달하시겠습니까?";
+"unableToSendAsAGift"	= "로그인을 하셔야만 이 선물을 친구에게 보낼 수 있습니다.";
+"giftSent"				= "선물 제공";
+"giftNotSent"			= "선물을 보낼 수 없습니다.";
+"vgoodMessageBanner"	= "당신의 점수를 위한 오퍼를 획득했습니다.  여기를 선택하셔서 교환하세요.";
+"vgoodMessageAd"        = "~가 이번 시합을 지원합니다.";
+"multipleVgoodsLabel"	= "축하합니다.  새로운 오퍼를 고르세요.";
+"nothingToDispatchMsg"  = "현재 귀하가 계신 지역에선 가능한 오퍼가 없습니다.";
+"acceptBtn"             = "승인";
+"refuseBtn"             = "거절";
+"getCoupon"             = "쿠폰 얻기";
+"sendAsGift"            = "선물로 보내기";
+
+// Alliances
+"alliance"                  = "동맹";
+"alliances"                 = "동맹들";
+"alliance_create"           = "동맹 만들기";
+"alliance_createDesc"       = "동맹 만들기";
+"alliance_your"             = "당신의 동맹";
+"alliance_yourDesc"         = "동맹의 상태 확인";
+"alliance_list"             = "동맹 목록";
+"alliance_listDesc"         = "모든 동맹 보기";
+"alliancemaintextfooter"    = "동맹이란, 다른 동맹과 경쟁하여 더 많은 Bedollar와 오퍼를 받기 위해 함께 팀을 이뤄서 협력하는 참가자를 의미합니다.";
+"alliancemembers"           = "멤버";
+"allianceadmin"             = "관리";
+"allianceviewmembers"       = "동맹 멤버";
+"allianceleave"             = "동맹 떠나기";
+"allianceviewpending"       = "지연 제안들";
+"allianceSearchFor"         = "동맹명 검색";
+"addToAlliance"             = "동맹 추가";
+"alliancependindialog"      = "%@와 동맹을 맺으시겠습니까";
+"alliancecreateeditext"     = "동맹명을 입력해 주세요";
+"alliancemaincreate"        = "동맹 생성";
+"alliancemainlist"          = "동맹 목록";
+"alliancesendreq"           = "동맹에 참가";
+"alliancerequestdialog"     = "이 동맹에 참가 요청을 하시겠습니까";
+"allianceleaveareyousure"   = "동맹을 떠나시겠습니까";
+"allianceaddfriends"        = "친구들을 동맹으로 추가";
+"alliancenametooshort"      = "동맹명은 3글자 이상 입력해야 합니다.";
+
+// Labels
+"wehavefound"			= "어떤 프로파일을 쓰길 원하십니까";
+"selectwhich"			= "계정을 선택하시거나 새로 생성하세요";
+"orcreate"				= "";
+"hereare"				= "당신의 도전들입니다";
+"itstimeto"				= "승리할 시간입니다.";
+"congratulations"		= "축하합니다,";
+"hereiswallet"			= "오퍼들을 모으세요.";
+"noscoreLabel"			= "참여한 적이 없습니다.  게임을 시작하고 이곳에서 점수를 확인하세요.";
+"noscoreLabelOtherUser" = "이 앱에는 가능한 점수가 없습니다.";
+"nochallenges"			= "현재 가능한 도전이 없습니다.  종료후 친구들에게 도전하세요";
+"noChallengesCompleted" = "도전을 완료한 적이 없습니다.";
+"startChallenge"		= "도전 신청을 하시겠습니까?  10 Bedollar를 거시고 승리하시면 25 Bedollar를 획득하게 됩니다.";
+"loginOn"				= "로그인";
+"no_fb_login1"			= "Beintoo 계정 생성";
+"no_fb_login2"			= "사용자나 페이스북의 계정을 사용하세요";
+"orCreateAccount"		= "혹은 새로운 계정을 생성하세요";
+"nogoodslabel"			= "오퍼를 수집하지 않았습니다";
+"nogoodsnolocation"		= "이 오퍼를 받으시려면 위치 정보를 활성화 해주십시오";
+"signup"				= "계정생성";
+"noAchievementsLabel"	= "이 앱을 사용키 위해 가능한 실적이 없습니다.";
+
+// Messages
+"inbox"					= "수신함";
+"yourMessages"			= "수신 메시지";
+"loadmoreButton"		= "더가져오기";
+"newMessage"			= "신규메시지";
+"reply"					= "답변";
+"delete"				= "삭제";
+"sendmessage"			= "친구를 선택하고 당신의 메시지를 전송하세요";
+"message:"				= "메시지";
+"sendButton"			= "전송";
+"sendMessageTitle"		= "메시지 전송";
+"addressee"				= "수신인:";
+"noMessages"			= "수신된 메시지가 없습니다.";
+
+// AlertMessages
+
+"useralreadyregistered" = "이미 가입된 email입니다";
+"errorMessage"			= "오류가 발생했습니다. 다시 시도해 주십시오";
+"challengeSent"			= "도전 전송";
+"challengeAccepted"		= "도전 승인";
+"challengeRefused"		= "도전 거절";
+"challengeOngoing"		= "진행중인 도전";
+"noBedollarsForChall"   = "도전 신청을 위해 필요한 Bedollar가 없습니다. \n 10Bedollar가 필요합니다.";
+"shortMessageError"		= "메시지가 너무 작습니다. \n 다시 시도해주세요";
+"messageSent"			= "메시지 전송완료!";
+"messageNotSent"		= "메시지를 보낼 수 없습니다. \n 다시 시도해주세요";
+"noFriendSelected"		= "메시지를 보내기 위한 친구를 선택해 주세요";
+"messageDeleted"		= "메시지 삭제.";
+"messageNotDeleted"		= "오류가 발생했습니다.  메시지를 지울 수 없습니다.  다시 시도해 주세요";
+"requestSent"			= "요청 전송이 완료되었습니다.";
+"requestNotSent"		= "오류가 발생했습니다.  요청이 전송되지 않았습니다.  다시 시도해 주세요";
+"requestAccepted"		= "요청 접수 완료";
+"requestRefused"		= "요청이 거절되었습니다.";
+"pendingFriendRequest"  = "이 사용자로부터 받은 요청이 지연중입니다.";
+"noUserMessage"			= "사용자가 발견되지 않았습니다.  다시 시도해 주세요";
