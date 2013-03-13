@@ -73,6 +73,7 @@
                     <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
                     <connections>
                         <outlet property="labelMiles" destination="4KQ-0n-Rm7" id="Z4C-6I-uZT"/>
+                        <outlet property="sliderMiles" destination="zrP-ex-sup" id="64E-I5-GvY"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4" sceneMemberID="firstResponder"/>
