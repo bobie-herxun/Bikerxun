@@ -10,4 +10,10 @@
 
 @interface ViewController : UIViewController
 
+@property (retain, nonatomic) IBOutlet UILabel *labelMiles;
+
+- (IBAction)addMiles:(id)sender;
+- (IBAction)launchBeintoo:(id)sender;
+- (IBAction)onSliderValueChanged:(id)sender;
+
 @end
