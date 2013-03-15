@@ -21,6 +21,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     self.labelMiles.text = [NSString stringWithFormat:@"%.0f Miles", [self.sliderMiles value]];
+    [self.activityIndicator stopAnimating];
     [self beintooLogin];
 }
 
@@ -33,6 +34,7 @@
 - (void)dealloc {
     [_labelMiles release];
     [_sliderMiles release];
+    [_activityIndicator release];
     [super dealloc];
 }
 
@@ -45,9 +47,17 @@
 - (IBAction)addMiles:(id)sender {
     [Beintoo setPlayerDelegate:self];
     [Beintoo setAchievementsDelegate:self];
-    [Beintoo submitScore:10 forContest:@"default"];
-    [Beintoo incrementAchievement:@"a9d0686c3aeea261efdfaa1f6ee71959" withScore:15];    //7dea5459a596171fe0d2307aaf90cf7e
+    [Beintoo submitScore:[self.sliderMiles value] forContest:@"default"];
+    [Beintoo incrementAchievement:@"0e2ed8007bd0f3acbbe53f1abfe0acfe" withScore:80];    //a9d0686c3aeea261efdfaa1f6ee71959
     [Beintoo getScore];
+    
+    [self.activityIndicator startAnimating];
+    [NSTimer scheduledTimerWithTimeInterval:3.0f target:self selector:@selector(stopActivityIndicator) userInfo:nil repeats:NO];
+}
+
+- (void)stopActivityIndicator
+{
+    [self.activityIndicator stopAnimating];
 }
 
 - (IBAction)launchBeintoo:(id)sender {

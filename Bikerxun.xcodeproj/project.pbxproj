@@ -1762,10 +1762,14 @@
 		80A3805C16F068D900A5A84D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Bobie Chen (68S77NE7R9)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bobie Chen (68S77NE7R9)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Bikerxun/Bikerxun-Prefix.pch";
 				INFOPLIST_FILE = "Bikerxun/Bikerxun-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "20EC9771-1689-4C99-9B98-F9241E44639E";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "20EC9771-1689-4C99-9B98-F9241E44639E";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -1773,10 +1777,14 @@
 		80A3805D16F068D900A5A84D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Bobie Chen (68S77NE7R9)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bobie Chen (68S77NE7R9)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Bikerxun/Bikerxun-Prefix.pch";
 				INFOPLIST_FILE = "Bikerxun/Bikerxun-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "20EC9771-1689-4C99-9B98-F9241E44639E";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "20EC9771-1689-4C99-9B98-F9241E44639E";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

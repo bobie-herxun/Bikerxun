@@ -12,6 +12,7 @@
 
 @property (retain, nonatomic) IBOutlet UILabel *labelMiles;
 @property (retain, nonatomic) IBOutlet UISlider *sliderMiles;
+@property (retain, nonatomic) IBOutlet UIActivityIndicatorView *activityIndicator;
 
 - (IBAction)addMiles:(id)sender;
 - (IBAction)launchBeintoo:(id)sender;
